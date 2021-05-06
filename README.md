@@ -44,4 +44,4 @@ The above snap shows the predicted values of each array which is further narrowe
  
  The model is saved and is loaded for recognising.
  
- ## NOTE: USE ONLY GRAY SCALE IMAGE FOR RECOGNISING
+ ## NOTE: USE ONLY GRAYSCALE IMAGE FOR RECOGNISING
